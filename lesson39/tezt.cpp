@@ -21,11 +21,4 @@ void run_all_tests() {
 	test(2221, false, "test09");
 	test(2'123'456'789, false, "test10");
 	test(-3'123'456'789, false, "test11");
-
-
-
-
-
-
-
 }
